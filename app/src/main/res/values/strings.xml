@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyRates</string>
+
+    <string name="rates_url_string">https://revolut.duckdns.org/latest?base=%1$s</string>
+</resources>
